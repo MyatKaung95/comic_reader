@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025369795119",
+    "firebase_url": "https://abur-cubur-bf216.firebaseio.com",
+    "project_id": "abur-cubur-bf216",
+    "storage_bucket": "abur-cubur-bf216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025369795119:android:dce9da2f46e5594cf634da",
+        "android_client_info": {
+          "package_name": "com.example.comic_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025369795119-6o0e2m0phqdkni3snimn2f0ka17q13o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr71d--CICixIYVCHsgAVgz8Jv_0ztgos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025369795119-6o0e2m0phqdkni3snimn2f0ka17q13o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
