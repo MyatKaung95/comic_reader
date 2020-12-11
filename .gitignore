@@ -40,11 +40,3 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 /.metadata
-/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
-/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
-/ios/Runner.xcodeproj/project.pbxproj
-/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
-/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
-/ios/Flutter/Debug.xcconfig
-/ios/Runner.xcworkspace/contents.xcworkspacedata
-/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata
