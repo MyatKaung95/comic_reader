@@ -42,8 +42,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       routes: {
-        '/chapters' : (context) => ChapterScreen(),
-        '/read' : (context) => ReadScreen()
+        '/chapters': (context) => ChapterScreen(),
+        '/read': (context) => ReadScreen()
       },
       theme: ThemeData(
         primarySwatch: Colors.blue,
